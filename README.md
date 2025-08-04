@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Burrdi
 - 👀 I’m interested in ... terrible coding practices that I display
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... the burrd-website repo / in-development branch
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Burrd#5559 on the relevant platform 
 
 average enjoyer 
