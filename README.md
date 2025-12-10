@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Burrdi
-- 👀 I’m interested in ... terrible coding practices that I display
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... terrible programming practices that I display
+- 🌱 I’m currently learning ... python, rust, c++ 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Burrd#5559 on the relevant platform 
 
